@@ -10,5 +10,3 @@ describe "./calculator.rb" do
 end
   
 end
-
-first_number = "Hello world!"
